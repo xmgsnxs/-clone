@@ -4,5 +4,9 @@ how are you boy
 i am amazing how about you
 ### clone 2
 Where are you?
+<<<<<<< HEAD
 hsghd dhjdhjs
 Wow amazing
+=======
+hsghd dhjdhjs zhhsu
+>>>>>>> bd00c18 (new)
